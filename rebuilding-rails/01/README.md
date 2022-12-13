@@ -2,7 +2,7 @@
 
 |本期版本| 上期版本
 |:---:|:---:
-`Sun Dec 11 00:03:30 CST 2022` | -
+`Tue Dec 13 16:02:06 CST 2022` | -
 
 ```bash
 bundle gem rulers

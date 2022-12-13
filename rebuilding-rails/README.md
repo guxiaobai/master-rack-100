@@ -1,5 +1,7 @@
 # Rebuilding Rails
 
+* [x] 0.Rebuilding Rails for Yourself
+* [x] 1. Zero to “It Works!”
 
 ## Ref
 
