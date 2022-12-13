@@ -8,6 +8,12 @@
 bundle gem rulers
 ```
 
+
+### Bundler
+
+* `add_development_dependency`
+* `add_dependency`、~~`add_runtime_dependency`~~
+
 ```ruby
 spec.add_dependency 'rack', '~> 2.2'
 spec.add_development_dependency "rack-test"
